@@ -1,46 +1,46 @@
-<p align="center" style="font-size:30px"> GUIDE SET UP Q BLOCKCHAIN NODE </p>
+# GUIDE SET UP Q BLOCKCHAIN NODE
 
-_____________
 
-<br>
 <p align="center">
   <img style="margin: auto; height: 100px; border-radius: 50%;" src="https://gitlab.com/uploads/-/system/project/avatar/22383256/Group_3.png?width=64">
 </p>
 
 
-# ⚪ USEFUL LINKS
-## Explorer:
+## ⚪ USEFUL LINKS
+### Explorer:
  * [Explorer](https://explorer.qtestnet.org/)
-## Faucet:
+### Faucet:
  * [Q Faucet](https://faucet.qtestnet.org/)
  
-## Social Media Q Blockchain:
+### Social Media Q Blockchain:
 * [Incentivized Guide Medium](https://medium.com/q-blockchain/q-blockchain-validator-onboarding-program-part-1-validator-incentivized-testnet-567ef6e4002e)
 
 * [Q BlockChain Discord Channel](https://discord.gg/aYDmNjrsJC)
 * [Q BlockChain Twitter Channel](https://twitter.com/QBlockchain)
 
-## My Social Media
+### My Social Media
 * [Telegram Kangsc](https://t.me/kang_sc)
 * [Twitter Kangsc](https://twitter.com/ghodanfarsc)
 
+_____________
 <br>
 
 
-# ⚪ SYSTEM REQUIREMENTS
-## Minimum Specifications :
+## ⚪ SYSTEM REQUIREMENTS
+### Minimum Specifications :
 - 1(v)Core
 - 20 GB storage
 - 2 GB RAM 
-## Recommended Specifications :
+### Recommended Specifications :
 - 2(v)Core
 - 30 GB storage
 - 4 GB RAM 
 
+_____________
 <br>
 
 
-# ⚪ INSTALLATION NODE
+## ⚪ INSTALLATION NODE
 ## Set Vars
 ```bash
 PASSWORD = <YOUR_PASSWORD>
@@ -213,5 +213,5 @@ _____________
 
 <br><br>
 
-# ⚪ TROUBLESHOOTING
-## COOMING SOON
+## ⚪ TROUBLESHOOTING
+### COOMING SOON
