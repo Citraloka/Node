@@ -44,12 +44,14 @@ _____________
 ```bash
 ./Owshen_v0.1.0_x86_64.AppImage init
 ```
+> PLEASE KEEP YOUR MNEMONIC PHRASE IN A SAFE PLACE OR YOU WILL LOSE YOUR FUNDS!
 _____________
 
 ## App Info
 ```bash
 ./Owshen_v0.1.0_x86_64.AppImage info
 ```
+> SAVE YOUR WALLET ADDRESS
 _____________
 
 ## App Wallet
