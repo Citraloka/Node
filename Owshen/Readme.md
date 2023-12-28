@@ -1,4 +1,4 @@
-# GUIDE SET UP Owshen Network
+# GUIDE AIRDROP TESTNET OWSHEN NETWORK
 
 <p align="center">
   <img style="margin: auto; height: 100px; border-radius: 50%;" src="https://pbs.twimg.com/profile_images/1739306503574540288/FCXbjxlv_400x400.jpg">
