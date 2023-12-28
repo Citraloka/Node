@@ -13,7 +13,7 @@
 * [Owshen github](https://github.com/OwshenNetwork)
 
 ### My Social Media
-* [Telegram](https://t.me/kanggsc78)
+* [Telegram](https://t.me/kangsc78)
 * [Twitter](https://twitter.com/kangsc78)
 
 _____________
